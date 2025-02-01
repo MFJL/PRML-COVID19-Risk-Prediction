@@ -29,12 +29,12 @@ Run Jupyter Notebook:
 
 jupyter notebook
 
-🎯 Results
+##🎯 Results
 Best performing model: Logistic Regression with AdaBoost
 Achieved 94% accuracy
 Hyperparameter tuning improved model efficiency
 
-🔗 References
+##🔗 References
 Dataset
 Scikit-learn Documentation
 PRML Lecture Notes
