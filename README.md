@@ -17,3 +17,6 @@ This project applies machine learning techniques to predict COVID-19 patient ris
 1. Clone this repository:
    ```bash
    git clone https://github.com/MFJL/PRML-COVID19-Risk-Prediction.git
+## Dataset
+Due to size limitations, the dataset is hosted on Google Drive.
+[Download COVID-19 Dataset](https://drive.google.com/file/d/1hln1G4VASwRunHJFuJv1cy9LYw0-9uz8/view?usp=drive_link)
