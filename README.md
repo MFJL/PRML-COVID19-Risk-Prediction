@@ -16,4 +16,4 @@ This project applies machine learning techniques to predict COVID-19 patient ris
 ## 🛠 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/PRML-COVID19-Risk-Prediction.git
+   git clone https://github.com/MFJL/PRML-COVID19-Risk-Prediction.git
