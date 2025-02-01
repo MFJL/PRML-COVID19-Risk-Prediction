@@ -20,3 +20,22 @@ This project applies machine learning techniques to predict COVID-19 patient ris
 ## Dataset
 Due to size limitations, the dataset is hosted on Google Drive.
 [Download COVID-19 Dataset](https://drive.google.com/file/d/1hln1G4VASwRunHJFuJv1cy9LYw0-9uz8/view?usp=drive_link)
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run Jupyter Notebook:
+
+jupyter notebook
+
+🎯 Results
+Best performing model: Logistic Regression with AdaBoost
+Achieved 94% accuracy
+Hyperparameter tuning improved model efficiency
+
+🔗 References
+Dataset
+Scikit-learn Documentation
+PRML Lecture Notes
+
